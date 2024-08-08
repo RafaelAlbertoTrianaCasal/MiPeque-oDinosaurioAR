@@ -4,3 +4,5 @@ Para poder probar esta aplicación, además del APK, será necesario el libro, y
 [MiPequeñoDinosaurio_Libro_Triana.zip](https://github.com/user-attachments/files/16173082/MiPequenoDinosaurio_Libro_Triana.zip)
 
 Documentación: [Documentación_MPD_TrianaRafael.pdf](https://github.com/user-attachments/files/16540188/Documentacion_MPD_TrianaRafael.pdf)
+
+APK: https://rafaelalbertotrianacasal.itch.io/proyectogarabatos-libroar?classId=3710d2df-cfb6-45a0-b50d-a3615d8c2c44&assignmentId=228f75f6-0bf3-42f9-ac4b-cf8dc56d77a6&submissionId=d185d2cf-197b-715a-e4b5-2353ddec4fd1
